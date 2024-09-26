@@ -1,6 +1,7 @@
 checkpoints/*
 !checkpoints/.gitkeep
 datasets/*
+!datasets/.gitkeep
 logs/*
 Results/*
 traced/*
